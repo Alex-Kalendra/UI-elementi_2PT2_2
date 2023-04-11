@@ -1,4 +1,4 @@
-# UI-elementi_2PT2_2
+# UI-elementi_2PT1_2
 Unity projekts, kas demonstrē UI elementu lietojumu, par tēmu: MR. Bean
 ![MR. Bean attēls](https://www.pngarts.com/files/4/Mr.-Bean-PNG-Image-365x279.png)
 
